@@ -1,2 +1,0 @@
-# Mollatrading-
-Molla Trading website 
